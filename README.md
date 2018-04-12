@@ -7,7 +7,7 @@ I'm dividing my code in separate logical modules (UI, DATA and CTRL) by using Mo
 
 # Stack
 
-    -  Module Exposing Design Pattern
+    -  Module Design Pattern
     -  MVC - like data structure
     -  Encapsulation
     -  Prototypes
